@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Sarim78
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me discord - WINTERS2055#1496
+- 👨‍💻 Trying to make new friends 
