@@ -1,65 +1,100 @@
-# Hey there 👋
+<div align="center">
 
-I'm **Sarim Siddiqui**
+```
+╔═══════════════════════════════════════════════════════════╗
+║         INITIALIZING USER PROFILE... ACCESS GRANTED       ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
-💻 Computer Science Student @ Wilfrid Laurier University
-🔐 Focused on **Cybersecurity, Data Science, and AI/ML**
+</div>
 
-I enjoy building software, exploring security concepts, and working on creative tech projects.
-Currently learning deeper concepts in **network security, data analysis, and system design** while building projects in **C, Python, and web technologies**.
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sarim+Siddiqui;CS+%40+Wilfrid+Laurier+University;Security+%7C+Data+%7C+AI%2FML;Always+Learning.+Always+Building." alt="Typing SVG" />
+</h1>
 
----
+<div align="center">
 
-## 🚀 Current Interests
+[![Cybersecurity](https://img.shields.io/badge/-%F0%9F%94%90_Cybersecurity-0D1117?style=flat-square&labelColor=00FF41&color=0D1117)](/)
+[![Data Science](https://img.shields.io/badge/-%F0%9F%A7%AA_Data_Science-0D1117?style=flat-square&labelColor=00FF41&color=0D1117)](/)
+[![AI/ML](https://img.shields.io/badge/-%F0%9F%A4%96_AI%2FML-0D1117?style=flat-square&labelColor=00FF41&color=0D1117)](/)
 
-* Cybersecurity & Security Operations
-* Data Analysis & Machine Learning
-* Systems Programming in C
-* Startup building and tech innovation
-
----
-
-## 🧠 Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+</div>
 
 ---
 
-## 🧰 Frameworks & Tools
+```bash
+$ whoami
+> sarim_siddiqui
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-
----
-
-## 🗄 Databases & Backend
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+$ cat about.txt
+> CS Student @ Wilfrid Laurier University
+> Building at the intersection of security, data, and systems.
+> Currently deep-diving into network security, data analysis,
+> and system design — shipping projects in C, Python & web tech.
+```
 
 ---
 
-## ☁ Cloud & Infrastructure
+## `> current_interests.log`
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
-
----
-
-## 🤝 Connect With Me
-
-📧 [siddiquisarim888@gmail.com](mailto:siddiquisarim888@gmail.com)
-💼 LinkedIn: [Sarim Siddiqui Profile](https://www.linkedin.com/in/sarim-siddiqui-a2ba1b1bb/?skipRedirect=true)
+```
+[●] Cybersecurity & Security Operations
+[●] Data Analysis & Machine Learning
+[●] Systems Programming in C
+[●] Startup Building & Tech Innovation
+```
 
 ---
 
-⭐ *Always learning. Always building.*
+## `> tech_stack --list`
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-00FF41?style=for-the-badge&logo=c&logoColor=0D1117)
+![Python](https://img.shields.io/badge/Python-00FF41?style=for-the-badge&logo=python&logoColor=0D1117)
+![Java](https://img.shields.io/badge/Java-00FF41?style=for-the-badge&logo=openjdk&logoColor=0D1117)
+![C#](https://img.shields.io/badge/C%23-00FF41?style=for-the-badge&logo=c-sharp&logoColor=0D1117)
+![R](https://img.shields.io/badge/R-00FF41?style=for-the-badge&logo=r&logoColor=0D1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-00FF41?style=for-the-badge&logo=javascript&logoColor=0D1117)
+
+**Frameworks & Tools**
+
+![Node.js](https://img.shields.io/badge/Node.js-1A1A2E?style=for-the-badge&logo=nodedotjs&logoColor=00FF41)
+![React](https://img.shields.io/badge/React-1A1A2E?style=for-the-badge&logo=react&logoColor=00FF41)
+![Git](https://img.shields.io/badge/Git-1A1A2E?style=for-the-badge&logo=git&logoColor=00FF41)
+![Linux](https://img.shields.io/badge/Linux-1A1A2E?style=for-the-badge&logo=linux&logoColor=00FF41)
+
+**Databases & Backend**
+
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00FF41)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00FF41)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00FF41)
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-161B22?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-161B22?style=for-the-badge&logo=docker&logoColor=2496ED)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-161B22?style=for-the-badge&logo=github-actions&logoColor=FFFFFF)
+
+---
+
+## `> connect --secure`
+
+```
+┌─────────────────────────────────────────────────────┐
+│  📧  siddiquisarim888@gmail.com                      │
+│  💼  linkedin.com/in/sarim-siddiqui-a2ba1b1bb        │
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+```
+[ ⭐ Always learning. Always building. ]
+```
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Sarim78&color=00FF41&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
