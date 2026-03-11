@@ -28,9 +28,10 @@ $ whoami
 
 $ cat about.txt
 > CS Student @ Wilfrid Laurier University
-> Building at the intersection of security, data, and systems.
-> Currently deep-diving into network security, data analysis,
-> and system design — shipping projects in C, Python & web tech.
+> Focused on Cybersecurity, Data Science & Systems Programming.
+> Software development, security concepts & technical project work.
+> Currently focused on network security, data analysis & system design.
+> Working primarily in C, Python & web technologies.
 ```
 
 ---
