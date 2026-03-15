@@ -51,12 +51,13 @@ $ AboutMe.txt
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-00FF41?style=for-the-badge&logo=c&logoColor=0D1117)
-![Python](https://img.shields.io/badge/Python-00FF41?style=for-the-badge&logo=python&logoColor=0D1117)
-![Java](https://img.shields.io/badge/Java-00FF41?style=for-the-badge&logo=openjdk&logoColor=0D1117)
-![C#](https://img.shields.io/badge/C%23-00FF41?style=for-the-badge&logo=c-sharp&logoColor=0D1117)
-![R](https://img.shields.io/badge/R-00FF41?style=for-the-badge&logo=r&logoColor=0D1117)
-![JavaScript](https://img.shields.io/badge/JavaScript-00FF41?style=for-the-badge&logo=javascript&logoColor=0D1117)
+![C](https://img.shields.io/badge/C-00802B?style=for-the-badge&logo=c&logoColor=ffffff)
+![C++](https://img.shields.io/badge/C++-00802B?style=for-the-badge&logo=cplusplus&logoColor=ffffff)
+![C#](https://img.shields.io/badge/C%23-00802B?style=for-the-badge&logo=csharp&logoColor=ffffff)
+![Java](https://img.shields.io/badge/Java-00802B?style=for-the-badge&logo=openjdk&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-00802B?style=for-the-badge&logo=javascript&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-00802B?style=for-the-badge&logo=python&logoColor=ffffff)
+![R](https://img.shields.io/badge/R-00802B?style=for-the-badge&logo=r&logoColor=ffffff)
 
 **Frameworks & Tools**
 
