@@ -23,10 +23,10 @@
 ---
 
 ```bash
-$ whoami
+$ Who Am I?
 > sarim_siddiqui
 
-$ cat about.txt
+$ AboutMe.txt
 > CS Student @ Wilfrid Laurier University
 > Focused on Cybersecurity, Data Science & Systems Programming.
 > Software development, security concepts & technical project work.
