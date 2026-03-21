@@ -28,10 +28,9 @@ $ Who Am I?
 
 $ AboutMe.txt
 > CS Student @ Wilfrid Laurier University
-> Focused on Cybersecurity, Data Science & Systems Programming.
+> Focused on Cybersecurity, Data Science & Cloud Computing.
 > Software development, security concepts & technical project work.
-> Currently focused on network security, data analysis & system design.
-> Working primarily in C, Python & web technologies.
+> Working primarily in Python, SQL, C & JavaScript.
 ```
 
 ---
@@ -41,7 +40,7 @@ $ AboutMe.txt
 ```
 [●] Cybersecurity & Security Operations
 [●] Data Analysis & Machine Learning
-[●] Systems Programming in C
+[●] Cloud Computing & Infrastructure
 [●] Startup Building & Tech Innovation
 ```
 
@@ -90,8 +89,8 @@ $ AboutMe.txt
 
 ```
 ┌─────────────────────────────────────────────────────┐
-│  📧  siddiquisarim888@gmail.com                      │
-│  💼  linkedin.com/in/sarim-siddiqui-a2ba1b1bb        │
+│  📧  siddiquisarim888@gmail.com                     │
+│  💼  linkedin.com/in/sarim-siddiqui-a2ba1b1bb       │
 └─────────────────────────────────────────────────────┘
 ```
 
