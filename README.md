@@ -55,7 +55,6 @@ $ AboutMe.txt
 ![C#](https://img.shields.io/badge/C%23-00802B?style=for-the-badge&logo=csharp&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/Java-00802B?style=for-the-badge&logo=openjdk&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-00802B?style=for-the-badge&logo=javascript&logoColor=ffffff)
-![TypeScript](https://img.shields.io/badge/TypeScript-00802B?style=for-the-badge&logo=typescript&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/Python-00802B?style=for-the-badge&logo=python&logoColor=ffffff)
 ![R](https://img.shields.io/badge/R-00802B?style=for-the-badge&logo=r&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/SQL-00802B?style=for-the-badge&logo=postgresql&logoColor=ffffff)
