@@ -29,7 +29,6 @@ $ Who Am I?
 $ AboutMe.txt
 > CS Student @ Wilfrid Laurier University
 > Focused on Cybersecurity, Data Science & Cloud Computing.
-> Software development, security concepts & technical project work.
 > Working primarily in Python, SQL, C & JavaScript.
 ```
 
@@ -55,6 +54,7 @@ $ AboutMe.txt
 ![C#](https://img.shields.io/badge/C%23-00802B?style=for-the-badge&logo=csharp&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/Java-00802B?style=for-the-badge&logo=openjdk&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-00802B?style=for-the-badge&logo=javascript&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/TypeScript-00802B?style=for-the-badge&logo=typescript&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/Python-00802B?style=for-the-badge&logo=python&logoColor=ffffff)
 ![R](https://img.shields.io/badge/R-00802B?style=for-the-badge&logo=r&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/SQL-00802B?style=for-the-badge&logo=postgresql&logoColor=ffffff)
@@ -79,9 +79,9 @@ $ AboutMe.txt
 **Cloud & Infrastructure**
 
 ![AWS](https://img.shields.io/badge/AWS-161B22?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-161B22?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
 ![Docker](https://img.shields.io/badge/Docker-161B22?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-161B22?style=for-the-badge&logo=github-actions&logoColor=FFFFFF)
-![Azure](https://img.shields.io/badge/Azure-161B22?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
 ---
 
 ## `> connect --secure`
