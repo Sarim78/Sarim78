@@ -89,7 +89,7 @@ $ AboutMe.txt
 ```
 ┌─────────────────────────────────────────────────────┐
 │  📧  siddiquisarim888@gmail.com                     │
-│  💼  linkedin.com/in/sarim-siddiqui-a2ba1b1bb       │
+│  💼  www.linkedin.com/in/sarimsidd/                 │
 └─────────────────────────────────────────────────────┘
 ```
 
