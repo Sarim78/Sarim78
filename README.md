@@ -66,9 +66,9 @@ $ AboutMe.txt
 ![React](https://img.shields.io/badge/React-1A1A2E?style=for-the-badge&logo=react&logoColor=00FF41)
 ![HTML](https://img.shields.io/badge/HTML-1A1A2E?style=for-the-badge&logo=html5&logoColor=00FF41)
 ![CSS](https://img.shields.io/badge/CSS-1A1A2E?style=for-the-badge&logo=css3&logoColor=00FF41)
+![Excel](https://img.shields.io/badge/Excel-1A1A2E?style=for-the-badge&logo=microsoftexcel&logoColor=00FF41)
 ![Git](https://img.shields.io/badge/Git-1A1A2E?style=for-the-badge&logo=git&logoColor=00FF41)
 ![Linux](https://img.shields.io/badge/Linux-1A1A2E?style=for-the-badge&logo=linux&logoColor=00FF41)
-![Excel](https://img.shields.io/badge/Excel-1A1A2E?style=for-the-badge&logo=microsoftexcel&logoColor=00FF41)
 
 **Databases & Backend**
 
